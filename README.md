@@ -4,4 +4,4 @@ A collection of competitive programming algorithm templates in C++. Each file is
 
 ## Author
 
-**Surya Pratap Singh** — [YouTube Channel](https://www.youtube.com/c/PriyanshAgarwal)
+**Surya Pratap Singh** — [Codeforces Profile](https://codeforces.com/profile/late_night_dreams)
